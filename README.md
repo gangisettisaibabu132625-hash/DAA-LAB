@@ -11,6 +11,7 @@ SUMMARY:Linear search checks each element sequentially and has O(n) time complex
         search repeatedly divides a sorted list into halves and has O(log n) time Complexity.
 CONCLUSION:Binary Search is more efficient for large ,sorted datasets, where as Linear Search is 
            simpler and can be used when the data is unsorted.
+           
 PRACTICAL-3:
 SUMMARY:Max-Heap sort builds a max-heap from the given elements and repeatedly moves the largest
         element to the end of the array.Its implementation is based on  heapify operations and has
