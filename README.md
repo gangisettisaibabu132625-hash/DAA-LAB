@@ -19,3 +19,9 @@ SUMMARY:Max-Heap sort builds a max-heap from the given elements and repeatedly m
 CONCLUSION:Max-heap sort provides efficient and consistent sorting performance with O(n log n) time 
            complexity.It is useful for large datasets and reqires O(1) extra space when implemented
            in place.
+           
+ PRACTICAL-4:
+ SUMMARY:The factorial program can be implemented using both iterative and recursive methods, with the 
+         iterative approch generally requiring less memory.
+ CONCLUSION:Both methods produce the same result, but recursion involves function-call overhead, 
+            making iteration more efficient in term of time and space for large inputs.
