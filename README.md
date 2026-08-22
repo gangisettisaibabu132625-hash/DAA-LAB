@@ -25,3 +25,8 @@ CONCLUSION:Max-heap sort provides efficient and consistent sorting performance w
          iterative approch generally requiring less memory.
  CONCLUSION:Both methods produce the same result, but recursion involves function-call overhead, 
             making iteration more efficient in term of time and space for large inputs.
+
+Practical 7:
+Summary: the program uses Dynamic programming to find the minimum number of coins needed to make a given amount and identifiees the coins used
+
+Conclusion: Thus the minimum coin change problem is solved efficiently using Dynamic programming.
