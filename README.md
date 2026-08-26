@@ -5,12 +5,14 @@ SUMMARY:Sorting algorithms arrange data in ascending or desending order using di
 CONCLUSION:Merge sort and Quicksort are generally more efficient for large datasets, where as 
            Bubble,Selection,Insection sorts are simpler and suitable for small or nearly sorted
            data.
+           
 
 PRACTICAL-2:
 SUMMARY:Linear search checks each element sequentially and has O(n) time complexity, While Binary
         search repeatedly divides a sorted list into halves and has O(log n) time Complexity.
 CONCLUSION:Binary Search is more efficient for large ,sorted datasets, where as Linear Search is 
            simpler and can be used when the data is unsorted.
+           
            
 PRACTICAL-3:
 SUMMARY:Max-Heap sort builds a max-heap from the given elements and repeatedly moves the largest
@@ -20,11 +22,13 @@ CONCLUSION:Max-heap sort provides efficient and consistent sorting performance w
            complexity.It is useful for large datasets and reqires O(1) extra space when implemented
            in place.
            
+           
  PRACTICAL-4:
  SUMMARY:The factorial program can be implemented using both iterative and recursive methods, with the 
          iterative approch generally requiring less memory.
  CONCLUSION:Both methods produce the same result, but recursion involves function-call overhead, 
             making iteration more efficient in term of time and space for large inputs.
+            
 
 Practical 7:
 Summary: the program uses Dynamic programming to find the minimum number of coins needed to make a given amount and identifiees the coins used.
