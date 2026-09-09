@@ -34,3 +34,14 @@ Practical 7:
 Summary: the program uses Dynamic programming to find the minimum number of coins needed to make a given amount and identifiees the coins used.
 
 Conclusion: Thus the minimum coin change problem is solved efficiently using Dynamic programming.
+
+PRACTICAL-5:
+SUMMARY:The 0/1 Knapsack problem was successfully implemented using dynamic programming to efficiently find the maximum possible value
+        within the given weight capacity.
+
+CONCLUSION: Dynamic programming reduces repeated calculations and provides an optimal solution with improved efficiency compared to the brute-force approach.
+
+PRACTICAL-6:
+SUMMARY:The Matrix Chain Multiplication problem was implemented using dynamic programming to determine the most efficient order of multiplying matrices.
+
+CONCLUSION: Dynamic programming minimizes the total number of scalar multiplications and provides an optimal matrix multiplication sequence efficiently.
