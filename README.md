@@ -49,3 +49,9 @@ PRACTICAL-6:
 SUMMARY:The Matrix Chain Multiplication problem was implemented using dynamic programming to determine the most efficient order of multiplying matrices.
 
 CONCLUSION: Dynamic programming minimizes the total number of scalar multiplications and provides an optimal matrix multiplication sequence efficiently.
+
+PRACTICAL-8:
+SUMMARY:Graphs can be implemented using adjacency lists/matrices, while DFS and BFS provide systematic ways to traverse graph vertices and edges.
+
+CONCLUSION:DFS is useful for depth-based exploration, whereas BFS explores level by level and is effective for finding the shortest path in unweighted graphs.
+
