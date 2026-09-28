@@ -55,3 +55,7 @@ SUMMARY:Graphs can be implemented using adjacency lists/matrices, while DFS and 
 
 CONCLUSION:DFS is useful for depth-based exploration, whereas BFS explores level by level and is effective for finding the shortest path in unweighted graphs.
 
+PRACTICAL-9:
+SUMMARY:Prim’s algorithm finds a Minimum Spanning Tree (MST) by repeatedly selecting the minimum-weight edge that connects a visited vertex to an unvisited vertex.
+
+CONCLUSION:It efficiently constructs the MST of a connected, weighted, undirected graph while ensuring no cycles are formed.
