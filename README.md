@@ -59,3 +59,8 @@ PRACTICAL-9:
 SUMMARY:Prim’s algorithm finds a Minimum Spanning Tree (MST) by repeatedly selecting the minimum-weight edge that connects a visited vertex to an unvisited vertex.
 
 CONCLUSION:It efficiently constructs the MST of a connected, weighted, undirected graph while ensuring no cycles are formed.
+
+PRACTICAL-10:
+SUMMARY:Kruskal’s algorithm finds the Minimum Spanning Tree by selecting edges in increasing order of their weights while avoiding cycles.
+
+CONCLUSION:It provides an efficient way to connect all vertices with minimum total cost and is commonly used in graph-based optimization problems.
