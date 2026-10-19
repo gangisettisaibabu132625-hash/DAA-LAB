@@ -64,3 +64,13 @@ PRACTICAL-10:
 SUMMARY:Kruskal’s algorithm finds the Minimum Spanning Tree by selecting edges in increasing order of their weights while avoiding cycles.
 
 CONCLUSION:It provides an efficient way to connect all vertices with minimum total cost and is commonly used in graph-based optimization problems.
+
+PRACTICAL-11:
+SUMMARY:The Floyd–Warshall algorithm is used to find the shortest paths between all pairs of vertices in a weighted graph.
+
+CONCLUSION:The algorithm helps determine the minimum distance between every pair of vertices in a graph.
+
+PRACTICAL-12:
+SUMMARY:The Travelling Salesman Problem finds the shortest possible route that visits every city exactly once and returns to the starting city.
+
+CONCLUSION:The program helps determine the minimum travel cost and the best route to visit all cities efficiently.
